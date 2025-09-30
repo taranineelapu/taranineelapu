@@ -1,8 +1,10 @@
-Hi there!!👋 My name is Tarani. I’m currently pursuing a Master’s in Data Science with a strong interest in advancing my career as a Data Scientist/ Data Engineer. Alongside my studies, I work as a Data Analyst at the University of Wisconsin–Milwaukee Marketing, where I bring insights from data to support decision-making. I also tutor for Bus Adm 210: Statistical Modeling in Business Analytics, helping students strengthen their foundation in applied statistics.<br/>
+Hi there!!👋 My name is Tarani.<br/>
+I’m currently pursuing a Master’s in Data Science with a strong interest in advancing my career as a Data Scientist/ Data Engineer.<br/>
+Alongside my studies, I work as a Data Analyst at the University of Wisconsin–Milwaukee Marketing, where I bring insights from data to support decision-making. I also tutor for Bus Adm 210: Statistical Modeling in Business Analytics, helping students strengthen their foundation in applied statistics.<br/>
 
-🔭 I’m working on my Master’s thesis focused on video summarization.<br/>
-🌱 I’m currently learning about Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) based applications.<br/>
-👯 I would love to collaborate on research projects around Data Science and AI.<br/>
+* 🔭 I’m working on my Master’s thesis focused on video summarization.<br/>
+* 🌱 I’m currently learning about Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) based applications.<br/>
+* 👯 I would love to collaborate on research projects around Data Science and AI.<br/>
 
 **🛠️ Tools & Skills**<br/>
 **Programming Languages:** Python, R<br/>
