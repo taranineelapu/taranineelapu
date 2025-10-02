@@ -14,4 +14,4 @@ My goal is to combine academic learning with practical experience to grow in the
 **Data Science & Miscellaneous Technologies:** Data Science pipeline (cleaning, wrangling, visualization, modeling, interpretation), Web Scraping (Beautiful Soup, Power Automate), EDA (Exploratory Data Analysis), ETL/ ELT pipelines, Azure Cloud Services, Snowflake, Statistical Analysis (Descriptive Statistics, Inferential Statistics (hypothesis testing, t-tests, chi-square tests, ANOVA), Regression Analysis (linear, logistic, multiple regression))<br/>
 **Big Data & Machine Learning:** SQL, Python Libraries (sci-kit-learn, numpy, pandas, matplotlib, Keras, TensorFlow, PyTorch), PowerBI, Tableau<br/>
 
-**Please feel free to reach out on** [LinkedIn](https://www.linkedin.com/in/taranineelapu) or [Email](neelaputarani@gmail.com). <br/>
+**Please feel free to reach out on** [LinkedIn](https://www.linkedin.com/in/taranineelapu) or via [Email](neelaputarani@gmail.com). <br/>
