@@ -28,4 +28,4 @@ Hey there 👋, I'm Tarani. I love the challenge of taking messy, unstructured d
 
 **💡 Current Work:** Building an AI-powered recommendation chatbot using Python, REST APIs, LangChain, PostgreSQL/pgvector, and hybrid search to combine structured ERP inventory data with semantic search for smarter product recommendations.
 
-📫 Let’s Connect: LinkedIn [linkedin.com/in/your-profile](https://www.linkedin.com/in/taranineelapu)
+📫 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/taranineelapu)
