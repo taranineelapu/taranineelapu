@@ -26,6 +26,6 @@ Hey there 👋, I'm Tarani. I love the challenge of taking messy, unstructured d
 ![Amazon Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 ![Amazon QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 
-**👩🏻‍💻ᝰ.ᐟ Current Work:** Building an AI-powered recommendation chatbot using Python, REST APIs, LangChain, PostgreSQL/pgvector, and hybrid search to combine structured ERP inventory data with semantic search for smarter product recommendations.
+**👩🏻‍💻 Current Work:** Building an AI-powered recommendation chatbot using Python, REST APIs, LangChain, PostgreSQL/pgvector, and hybrid search to combine structured ERP inventory data with semantic search for smarter product recommendations.
 
 📫 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/taranineelapu)
