@@ -4,7 +4,7 @@ Hey there 👋, I'm Tarani. I love the challenge of taking messy, unstructured d
 
 **📚 Technical Focus:**
 I enjoy the complexity of *distributed systems, building logic for big-data pipelines, high frequency streaming data* and everything in between.
-Also been experimenting with *integrating LLMs into data products using vector databases, RAG, and AI agents* to streamline data accessibility and query capabilities across structured and unstructured datasets.
+I've also been experimenting with *integrating LLMs into data products using vector databases, RAG, and AI agents* to streamline data accessibility and query capabilities across structured and unstructured datasets.
 
 **🗃️ Techstack:** 
 
