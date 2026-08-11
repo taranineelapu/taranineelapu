@@ -18,6 +18,4 @@ I've also been experimenting with *integrating LLMs into data products using vec
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-I would love to get in touch if you are hiring in the space or want to build something cool together.
-
 📫 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/taranineelapu)
