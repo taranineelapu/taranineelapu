@@ -1,10 +1,15 @@
-Hey there 👋, I'm Tarani. I love the challenge of taking messy, unstructured data and turning it into something intelligent, be it through analysis, building data pipelines or AI-driven products. 
+Hey there 👋, I'm Tarani. I love the challenge of taking messy, unstructured data and turning it into something intelligent, be it through building data pipelines, performing analysis, or AI-driven products. 
 
-**👩🏻‍💻 Current Work:** Building an *AI powered Inventory check & Product Recommendation Chatbot* to retrieve Inventory Availability on shop floor and smarter product recommendations for consumers.
+**👩🏻‍💻 Current Work:** Building an *AI powered Product Recommendation & Inventory check Chatbot* for smarter product recommendations for consumers and retrieve real-time Availability using natural language.
 
 **📚 Technical Focus:**
 I enjoy the complexity of *distributed systems, building logic for big-data pipelines, high frequency streaming data* and everything in between.
 I've also been experimenting with *integrating LLMs into data products using vector databases, RAG, and AI agents* to streamline data accessibility and query capabilities across structured and unstructured datasets.
+
+**📊 Analytical Focus:**
+I enjoy turning complex data into actionable data-driven strategies through statistical modeling, predictive analytics, and experimentation to optimize operations, enhance the customer experience, and sharpen marketing performance.
+I've also been leveraging advanced segmentation, causal inference, and machine learning forecasting to uncover behavioral patterns, drive data-backed decision-making, and maximize the business impact of core product initiatives.
+
 
 **🗃️ Techstack:** 
 
