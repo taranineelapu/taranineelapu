@@ -12,14 +12,8 @@ I've also been leveraging *advanced segmentation, causal inference, and machine 
 
 
 **🗃️ Techstack:** 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+* **Programming & Data Processing:** Python, SQL, Pandas, NumPy, PySpark
+* **Databases & Architecture:** Relational Databases, NoSQL (MongoDB), Star Schema Design, SQL Server, Azure Databricks, Snowflake
+* **Business Intelligence & Visualisation:** Power BI, DAX, Microsoft Fabric, Power Query, Tableau
 
 📫 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/taranineelapu)
