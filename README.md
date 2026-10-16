@@ -13,6 +13,6 @@ Hey there 👋, I'm Tarani. I love the challenge of taking messy, unstructured d
 * **Programming & Data Processing:** Python (NumPy, Pandas, seaborn, matplotlib), PySpark, SQL, R programming language
 * **Data Engineering & Architecture:** Azure Databricks, Snowflake, Relational Databases, Star & Snowflake Schema Design
 * **Business Intelligence & Visualization:** Power BI (DAX functions, data modeling), Excel (pivot tables, macros, index/match, vlookup, VBA, data links), Tableau
-* **Key Skills:** ETL/ ELT Pipelines, Statistical Modeling, Data Visualization, Recommendation Systems
+* **Key Skills:** ETL/ ELT Pipelines, Statistical Modeling, Data Visualization, Predictive Modeling, Forecasting, Recommendation Systems
 
 📫 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/taranineelapu)
