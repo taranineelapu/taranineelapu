@@ -1,4 +1,4 @@
-Hey there 👋, I'm Tarani. I love the challenge of taking messy, unstructured data and turning it into reliable data pipelines and actionable insights using statistical modeling and machine learning.
+Hey there! 👋 I love building scalable data pipelines and transform complex datasets into actionable insights using statistical modeling and machine learning.
 
 **🗃️ Techstack:** 
 * **Programming & Data Processing:** Python (NumPy, Pandas, scikit-learn, seaborn, matplotlib), PySpark, SQL, R programming language
