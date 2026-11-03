@@ -1,4 +1,4 @@
-Hey there! 👋 I love building scalable data pipelines and transform complex datasets into actionable insights using statistical modeling and machine learning.
+Hey there! 👋 I love building scalable data pipelines and transforming complex datasets into actionable insights using statistical modeling and machine learning.
 
 **🗃️ Techstack:** 
 * **Programming & Data Processing:** Python (NumPy, Pandas, scikit-learn, seaborn, matplotlib), PySpark, SQL, R programming language
@@ -8,7 +8,7 @@ Hey there! 👋 I love building scalable data pipelines and transform complex da
 
 **📊 Analytical Focus:**
 * I turn complex data into actionable insights using *statistical modeling, predictive analytics, forecasting and experimentation* to *optimize operations, supply chain, marketing initiatives and improve customer/ user experience.*
-* I help stake-holders uncover patterns, trends, and drive data-backed decisions to maximize business growth and impact for supply chain, operations, and product initiatives.
+* I help stakeholders uncover patterns, trends, and drive data-backed decisions to maximize business growth and impact for supply chain, operations, and product initiatives.
 
 <!--
 **📚 Engineering Focus:**
